@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": "403e",
+      "title": "react"
+    },
+    {
+      "id": "7a05",
+      "title": "reactQuery"
+    },
+    {
+      "id": "e7e8",
+      "title": "java"
+    },
+    {
+      "id": "7a00",
+      "title": "css"
+    }
+  ]
+}
